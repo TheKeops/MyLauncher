@@ -1,2 +1,5 @@
 # My-Launcher
-My Launcher uygulaması istediğiniz uygulamaları veya dosyaları tek bir yerde toplayıp istediğiniz zaman çalıştırmayı sağlar.
+
+
+# MY LAUNCHER NEDİR?
+My Launcher nedir? My Launcher istediğiniz uygulamaları ve dosyaları istediğiniz zaman çalıştırabilmenize sağlar. Uygulama kullanımı basittir. 
