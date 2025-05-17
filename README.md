@@ -7,7 +7,7 @@ MyLauncher nedir? MyLauncher istediğiniz uygulamaları bir yerde toplayıp hız
 
 | TUŞLAR        | GÖREV         |
 | ------------- |:-------------:|
-| E              | Uygulama Ekle |
-| SPACE (BOŞLUK) | Uygulama Ekle |
-| DEL | Uygulama Sil |
-| ENTER | Uygulama Başlat |
+| <kdb>E</kdb>     | Uygulama Ekle |
+| <kdb>SPACE</kdb> | Uygulama Ekle |
+| <kdb>DEL</kdb>   | Uygulama Sil |
+| <kdb>ENTER</kdb> | Uygulama Başlat |
