@@ -1,4 +1,7 @@
-# MYLAUNCHER
+
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Wox-launcher/wox?include_prereleases)](https://github.com/Wox-launcher/Wox/releases)
+
+# MYLAUNCHER | Hızlı uygulama başlatıcı
 
 ## MYLAUNCHER HAKKINDA
 MyLauncher nedir? MyLauncher istediğiniz uygulamaları bir yerde toplayıp hızlıca başlatmanızı sağlar.
