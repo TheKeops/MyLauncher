@@ -1,4 +1,6 @@
 
+![Snapshot](https://raw.githubusercontent.com/Wox-launcher/Wox/master/docs/images/app.png)
+
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/Wox-launcher/wox?include_prereleases)](https://github.com/Wox-launcher/Wox/releases)
 
 # MYLAUNCHER | Hızlı uygulama başlatıcı
