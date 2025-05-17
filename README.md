@@ -1,5 +1,13 @@
-# My-Launcher
+# MYLAUNCHER
 
+## MYLAUNCHER HAKKINDA
+MyLauncher nedir? MyLauncher istediğiniz uygulamaları bir yerde toplayıp hızlıca başlatmanızı sağlar.
 
-# MY LAUNCHER NEDİR?
-My Launcher nedir? My Launcher istediğiniz uygulamaları ve dosyaları istediğiniz zaman çalıştırabilmenize sağlar. Uygulama kullanımı basittir. 
+## MYLAUNCHER TUŞ ATAMALARI
+
+| TUŞLAR        | GÖREV         |
+| ------------- |:-------------:|
+| E              | Uygulama Ekle |
+| SPACE (BOŞLUK) | Uygulama Ekle |
+| DEL | Uygulama Sil |
+| ENTER | Uygulama Başlat |
