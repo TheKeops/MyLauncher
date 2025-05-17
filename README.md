@@ -1,12 +1,17 @@
+<div align="center">
+ <img width="250" src="https://github.com/TheKeops/My-Launcher/blob/main/img/my-launcher-no.png" alt="mylauncher" />
+</div>
 
-![Snapshot](https://raw.githubusercontent.com/Wox-launcher/Wox/master/docs/images/app.png)
-
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Wox-launcher/wox?include_prereleases)](https://github.com/Wox-launcher/Wox/releases)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/)](https://github.com/Wox-launcher/Wox/releases)
 
 # MYLAUNCHER | Hızlı uygulama başlatıcı
 
+<br>
+
 ## MYLAUNCHER HAKKINDA
 MyLauncher nedir? MyLauncher istediğiniz uygulamaları bir yerde toplayıp hızlıca başlatmanızı sağlar.
+
+<br>
 
 ## MYLAUNCHER TUŞ ATAMALARI
 
