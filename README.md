@@ -2,7 +2,7 @@
  <img width="250" src="https://github.com/TheKeops/My-Launcher/blob/main/img/my-launcher-no.png" alt="mylauncher" />
 </div>
 
-[![GitHub release (latest by date)](https://shields.io/github/v/release/TheKeops/My-Launcher)](https://github.com/TheKeops/My-Launcher/releases)
+[![GitHub release (latest by date)](https://shields.io/github/v/release/TheKeops/My-Launcher)](https://github.com/TheKeops/My-Launcher/releases) 
 
 # MYLAUNCHER | Hızlı uygulama başlatıcı
 
