@@ -13,6 +13,20 @@ MyLauncher nedir? MyLauncher istediğiniz uygulamaları bir yerde toplayıp hız
 
 <br>
 
+>[!WARNING]
+>Bu uygulama geliştirilme aşamasındadır, hatalar veya eksikler olabilir.
+
+>[!NOTE]
+>MyLauncher uygulaması içinde "MYAPPS" uygulamalarıda aktif edilebilecektir!
+
+<br>
+
+<div align="center">
+ <img width="250" src="https://github.com/TheKeops/My-Launcher/blob/main/img/my-launcher-no.png" alt="mylauncher-image-main" />
+</div>
+
+<br>
+
 ## MYLAUNCHER TUŞ ATAMALARI
 
 | TUŞLAR        | GÖREV         |
