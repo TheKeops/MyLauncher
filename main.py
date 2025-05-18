@@ -152,7 +152,6 @@ def settings_function():
     settings_win.title("MY LAUNCHER | AYARLAR")
     settings_win.resizable(False,False)
     settings_win.attributes("-topmost", True)
-    settings_win.iconbitmap("MYLAUNCHER/image/my-launcher-logo.ico")
 
     window_width = 550
     window_height = 450
