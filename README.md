@@ -21,12 +21,6 @@ MyLauncher nedir? MyLauncher istediğiniz uygulamaları bir yerde toplayıp hız
 
 <br>
 
-<div align="center">
- <img width="250" src="https://github.com/TheKeops/My-Launcher/blob/main/img/my-launcher-no.png" alt="mylauncher-image-main" />
-</div>
-
-<br>
-
 ## MYLAUNCHER TUŞ ATAMALARI
 
 | TUŞLAR        | GÖREV         |
@@ -35,3 +29,16 @@ MyLauncher nedir? MyLauncher istediğiniz uygulamaları bir yerde toplayıp hız
 | <kbd>SPACE</kbd> | Uygulama Ekle |
 | <kbd>DEL</kbd>   | Uygulama Sil |
 | <kbd>ENTER</kbd> | Uygulama Başlat |
+
+<br>
+
+<div align="center">
+ <img width="250" src="https://github.com/TheKeops/My-Launcher/blob/main/img/my-launcher-no.png" alt="mylauncher-image-main" />
+</div>
+
+<br>
+
+# MYLAUNCHER NASIL KULLANILIR
+> Klavuzu daha iyi anlamak için yukarıdaki görselden yararlanabilirsiniz.
+
+"Ekle" butonuna tıkladığınızda çıkan pencereden kısa yola ekleyeceğiniz uygulmanın adını giriniz, "Uygulama Seç" butonuna tıklayarak kısayol eklemek istediğiniz uygulamayı seçebilirsiniz. "Sil" butonuna tıkladığınızda seçtiğiniz kısayol uygulamasını siler. "Başlat" butonuna tıkladığınızda seçtiğiniz uygulama başlatılır. "Ayarlar" bölümünde ise uygulamada yerel bir hata olduğunda uygulamayı yeniden başlatabilir veya uygulamayı sıfırlayabilirsiniz.
