@@ -14,10 +14,10 @@ MyLauncher nedir? MyLauncher istediğiniz uygulamaları bir yerde toplayıp hız
 <br>
 
 >[!WARNING]
->Bu uygulama geliştirilme aşamasındadır, hatalar veya eksikler olabilir.
+>Bu uygulama geliştirilme aşamasındadır, hatalar veya eksikler olabilir bunları bildirebilirsiniz.
 
 >[!NOTE]
->MyLauncher uygulaması içinde "MYAPPS" uygulamalarıda aktif edilebilecektir!
+> MyLauncher uygulamasında "MyApps" uygulamalarını kullanabilirsiniz. (Eklenmedi)
 
 <br>
 
