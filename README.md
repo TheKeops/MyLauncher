@@ -42,3 +42,5 @@ MyLauncher nedir? MyLauncher istediğiniz uygulamaları bir yerde toplayıp hız
 > Klavuzu daha iyi anlamak için yukarıdaki görselden yararlanabilirsiniz.
 
 "Ekle" butonuna tıkladığınızda çıkan pencereden kısa yola ekleyeceğiniz uygulmanın adını giriniz, "Uygulama Seç" butonuna tıklayarak kısayol eklemek istediğiniz uygulamayı seçebilirsiniz. "Sil" butonuna tıkladığınızda seçtiğiniz kısayol uygulamasını siler. "Başlat" butonuna tıkladığınızda seçtiğiniz uygulama başlatılır. "Ayarlar" bölümünde ise uygulamada yerel bir hata olduğunda uygulamayı yeniden başlatabilir veya uygulamayı sıfırlayabilirsiniz.
+
+> Yukarıdaki tabloda verilen klavye tuş atamaları ilede işlemer yapılabilir.
