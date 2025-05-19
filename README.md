@@ -33,7 +33,7 @@ MyLauncher nedir? MyLauncher istediğiniz uygulamaları bir yerde toplayıp hız
 <br>
 
 <div align="center">
- <img width="750" src="https://github.com/TheKeops/My-Launcher/blob/main/img/my-launcher-no.png" alt="mylauncher-image-main" />
+ <img width="750" src="https://github.com/TheKeops/My-Launcher/blob/main/img/my-launcher-image.PNG" />
 </div>
 
 <br>
