@@ -47,4 +47,4 @@ Bu uygulama başlatıldığında `MYLAUNCHER` adında bir klasör oluşturur. Kl
 
 "Ekle" butonuna tıkladığınızda çıkan pencereden kısa yola ekleyeceğiniz uygulmanın adını giriniz, "Uygulama Seç" butonuna tıklayarak kısayol eklemek istediğiniz uygulamayı seçebilirsiniz. "Sil" butonuna tıkladığınızda seçtiğiniz kısayol uygulamasını siler. "Başlat" butonuna tıkladığınızda seçtiğiniz uygulama başlatılır. "Ayarlar" bölümünde ise uygulamada yerel bir hata olduğunda uygulamayı yeniden başlatabilir veya uygulamayı sıfırlayabilirsiniz.
 
-> Yukarıdaki tabloda verilen klavye tuş atamaları ilede işlemler yapılabilir.
+> Yukarıdaki tabloda verilen klavye tuş atamaları ile de işlemler yapılabilir.
