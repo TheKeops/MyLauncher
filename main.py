@@ -3,7 +3,7 @@ These codes are the main version (MyLauncher) codes.
 Developer : Keops Studios (TheKeops)
 License : Apache License 2.0
 
-[WARNING] : Using these application codes in malware and for commercial purposes is prohibited!
+[WARNING] : Using the codes of this application for malware is prohibited!
 
 Version : v1.1-demo
 """
