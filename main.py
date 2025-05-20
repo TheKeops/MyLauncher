@@ -8,19 +8,19 @@ License : Apache License 2.0
 Version : v1.1-demo
 """
 
-def MainApp():
+# Libraries
+import tkinter as tk
+from tkinter import ttk, messagebox,filedialog
+import customtkinter as ctk
+import os
+import time
+import json
+import sys
+import webbrowser
+from tkinter import PhotoImage
+from datetime import datetime
 
-    # Libraries
-    import tkinter as tk
-    from tkinter import ttk, messagebox, filedialog
-    import customtkinter as ctk
-    import os
-    import time
-    import json
-    import sys
-    import webbrowser
-    from tkinter import PhotoImage
-    from datetime import datetime
+def MainApp():
     
     # UI Theme
     ctk.set_appearance_mode("system")
@@ -245,7 +245,7 @@ def MainApp():
     title.pack()
     title.place(x=15, y=30)
     
-    version = ctk.CTkLabel(root, text="v1.1-alpha",bg_color="#333333" ,font=("century gothic",17,"bold"))
+    version = ctk.CTkLabel(root, text="v1.1-demo",bg_color="#333333" ,font=("century gothic",17,"bold"))
     version.pack()
     version.place(x=13, y=60)
     
