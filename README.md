@@ -13,6 +13,10 @@ MyLauncher nedir? MyLauncher istediğiniz uygulamaları bir yerde toplayıp hız
 
 <br>
 
+Bu uygulama başlatıldığında |MYLAUNCHER| adında bir klasör oluşturur. Klasör içine |daha.json| isimli bir dosya açar bunun nedeni kısayol verilerini sağlamaktır.
+
+<br>
+
 >[!WARNING]
 >Bu uygulama geliştirilme aşamasındadır, hatalar veya eksikler olabilir bunları bildirebilirsiniz.
 
