@@ -20,9 +20,6 @@ Bu uygulama başlatıldığında `MYLAUNCHER` adında bir klasör oluşturur. Kl
 >[!WARNING]
 >Bu uygulama geliştirilme aşamasındadır, hatalar veya eksikler olabilir bunları bildirebilirsiniz.
 
->[!NOTE]
-> MyLauncher uygulamasında "MyApps" uygulamalarını kullanabilirsiniz. (Eklenmedi)
-
 <br>
 
 ## MYLAUNCHER TUŞ ATAMALARI
