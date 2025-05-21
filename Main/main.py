@@ -1,7 +1,7 @@
 """
 These codes are the main version (MyLauncher) codes.
 Developer : Keops Studios (TheKeops)
-License : Apache License 2.0
+License : MIT LICENSE
 
 [WARNING] : Using the codes of this application for malware is prohibited!
 
