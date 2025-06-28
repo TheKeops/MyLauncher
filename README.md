@@ -18,6 +18,9 @@ Bu uygulama başlatıldığında `MYLAUNCHER` adında bir klasör oluşturur. Kl
 <br>
 
 >[!WARNING]
+>Bu uygulama yalnızca Windows makinelerinde çalışır.
+
+>[!WARNING]
 >Bu uygulama geliştirilme aşamasındadır, hatalar veya eksikler olabilir bunları bildirebilirsiniz.
 
 <br>
